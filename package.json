@@ -1,0 +1,22 @@
+{
+  "name": "openldap_pbkdf2",
+  "version": "1.0.0",
+  "description": "node.js version of openldap compatible pbkdf2 password hashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Irfan Baqui",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/irfanbaqui/openldap_pbkdf2.git"
+  },
+  "devDependencies": {
+    "mocha": "2.1.0",
+    "should": "4.6.5"
+  },
+  "dependencies": {
+    "lodash": "4.13.1"
+  }
+}
