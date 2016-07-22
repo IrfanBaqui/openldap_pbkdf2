@@ -14,7 +14,7 @@ This is a utility library to use with openldap. It hashes passwords using crypto
 
 ### Output Format
 
-> {PBKDF2}<Iteration>$<Adapted Base64 Salt>$<Adapted Base64 DK>
+> {PBKDF2}[Iteration]$[Adapted Base64 Salt]$[Adapted Base64 DK]
 
 
 # Tests
