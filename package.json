@@ -1,6 +1,6 @@
 {
   "name": "openldap_pbkdf2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node.js version of openldap compatible pbkdf2 password hashing",
   "main": "index.js",
   "scripts": {
